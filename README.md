@@ -5,7 +5,7 @@ A simple and user-friendly calculator website built with HTML, CSS, and JavaScri
 
 ## Demo
 
-file:///F:/Codsoft%20internship/Task3/Calculator/index.html
+[file:///F:/Codsoft%20internship/Task3/Calculator/index.html](#)
 
 ## Features
 
